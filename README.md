@@ -1,6 +1,6 @@
-# Rode Ollama (Deepseek) Pelo Docker
+# Rode Deepseek (Ollama) Pelo Docker
 
-Este guia mostra como executar o Llama em um ambiente Docker expondo o servidor REST. Uma excelente opção para rodar um modelo de linguagem (LLM) localmente e integrá-lo a outras aplicações.
+Este guia mostra como executar o Deepseek em um ambiente Docker com Ollama expondo o servidor REST. Uma excelente opção para rodar um modelo de linguagem (LLM) localmente e integrá-lo a outras aplicações.
 
 ### Configuração do Docker Compose
 Em um diretório de sua máquina, crie um arquivo chamado `docker-compose.yml` com o seguinte conteúdo:
